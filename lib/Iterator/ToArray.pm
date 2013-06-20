@@ -6,7 +6,7 @@ use warnings;
 use base 'Exporter';
 use Scalar::Util qw(blessed reftype);
 
-our $VERSION   = '0.02';
+our $VERSION   = '0.03';
 our @EXPORT_OK = qw/to_array/;
 
 sub new {
@@ -80,7 +80,7 @@ Iterator::ToArray convert iterator to array using coderef.
 
 =head1 AUTHOR
 
-Yoshihiro Sasaki E<lt>aloelight {at} gmail.comE<gt>
+Yoshihiro Sasaki E<lt>ysasaki {at} cpan.orgE<gt>
 
 =head1 LICENSE
 
