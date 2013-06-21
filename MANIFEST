@@ -2,7 +2,6 @@ Build.PL
 Changes
 LICENSE
 META.json
-Makefile.PL
 README.md
 cpanfile
 lib/Iterator/ToArray.pm
